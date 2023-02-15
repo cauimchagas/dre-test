@@ -1,0 +1,8 @@
+1° No Primeiro momento o caminho em volumes referente a Pasta dags foi ajustado pois estava como "dag" 
+volumes:
+    - ./dags:/opt/airflow/dags
+
+2° A porta no airflow-webserver: não estava inserida no caminho:
+http://localhost:8080/health
+
+3° Para Acesso local foi inserido a senha Padrão conforme documetação Oficial:(airflow,airflow)
