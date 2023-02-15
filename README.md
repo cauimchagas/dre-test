@@ -58,4 +58,5 @@ docker compose up airflow-init   ( inicia a baixar as imagens do repositorio ofi
 docker compose Up.
  
  A  DAG  descrita  no projeto  pode ser acessada localmente  na porta especificada  NO  airflow-webserver:  neste caso 8080(http://localhoast:8080)
+
  
