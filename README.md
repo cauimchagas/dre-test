@@ -1,5 +1,4 @@
-![Pismo1](https://user-images.githubusercontent.com/62898524/219015174-2ecc8086-b959-4307-86ee-8f9288dc2e65.JPG)
-# dre-test
+![Pismo1](https://user-images.githubusercontent.com/62898524/219015174-2ecc8086-b959-4307-86ee-8f9288dc2e65.JPG)  
 
 O  que é Airflow                                                      
 O Apache Airflow é uma plataforma de código aberto para desenvolver, agendar e monitorar fluxos de trabalho orientados a lotes. A estrutura Python extensível dAirflow permite que você crie fluxos de trabalho conectados a praticamente qualquer tecnologia. Uma interface da Web ajuda a gerenciar o estado de seus fluxos de trabalho. O Airflow pode ser implantado de várias maneiras, variando de um único processo em seu laptop a uma configuração distribuída para suportar até mesmo os maiores fluxos de trabalho.
@@ -75,5 +74,15 @@ e apos expor o Airflow localmente:
 
 http://localhost:8080
 
-
  
+Acessando o Airflow localmente verificar se a Dag criada estaria funcionando corretamente mostra
+
+A  DaG  que  mostra  link para video youtube rodou com sucesso  
+
+![image](https://user-images.githubusercontent.com/62898524/219026734-b68f368e-d3a5-47e7-ad3a-dc3147b8ec4f.png)
+
+
+Após a DAG rodar os logs podem ser observados na Pasta LOGS que foi criada.
+
+![Pismo4](https://user-images.githubusercontent.com/62898524/219027088-11e39a12-37b0-4aef-bfee-1a633b66579d.JPG)
+
