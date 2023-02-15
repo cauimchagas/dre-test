@@ -1,4 +1,4 @@
-![Pismo1](https://user-images.githubusercontent.com/62898524/219015174-2ecc8086-b959-4307-86ee-8f9288dc2e65.JPG)  
+  
 
 O  que é Airflow                                                      
 O Apache Airflow é uma plataforma de código aberto para desenvolver, agendar e monitorar fluxos de trabalho orientados a lotes. A estrutura Python extensível dAirflow permite que você crie fluxos de trabalho conectados a praticamente qualquer tecnologia. Uma interface da Web ajuda a gerenciar o estado de seus fluxos de trabalho. O Airflow pode ser implantado de várias maneiras, variando de um único processo em seu laptop a uma configuração distribuída para suportar até mesmo os maiores fluxos de trabalho.
@@ -54,7 +54,9 @@ Este projeto tem o objetivo de  Rodar uma DAG  smples utilizando  o Smooth.py on
 Para iniciar  baixar as Imagen s no compose
 
 docker compose up airflow-init   ( inicia a baixar as imagens do repositorio oficial)
-                                                                                                                                                                                      
+
+![Pismo1](https://user-images.githubusercontent.com/62898524/219027860-86374568-1490-40e4-b5f6-f135da42da8b.JPG)
+
 docker compose Up.
  
  A  DAG  descrita  no projeto  pode ser acessada localmente  na porta especificada  NO  airflow-webserver:  neste caso 8080(http://localhoast:8080)
