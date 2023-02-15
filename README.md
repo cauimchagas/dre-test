@@ -60,4 +60,10 @@ docker compose Up.
  
  A  DAG  descrita  no projeto  pode ser acessada localmente  na porta especificada  NO  airflow-webserver:  neste caso 8080(http://localhoast:8080)
 
+#  BAIXANDO IMAGENS AIRFLOW
+Na Primeira Imagem acima temos  as imagens do airflow sendo baixadas  no compose .
+O projeto inicial precisou identificar possíveis erros existentes no codigo YAML que tornaria a criação do Airflow utilizando o Docker compose. Após tais problemas encontrados e modificados conforme relatados em Problemas.txt iniciou o processo de baixar as imagens do airflow.
+Rodando na pasta onde estavam os fontes:
+- C:\Users\Dioeliton> docker compose up airflow-init![Pismo2](https://user-images.githubusercontent.com/62898524/219017513-49e8c5b3-b468-4895-8f90-4f72a28e9ab4.JPG)
+
  
