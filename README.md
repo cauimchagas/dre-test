@@ -66,4 +66,14 @@ O projeto inicial precisou identificar possíveis erros existentes no codigo YAM
 Rodando na pasta onde estavam os fontes:
 - C:\Users\Dioeliton> docker compose up airflow-init![Pismo2](https://user-images.githubusercontent.com/62898524/219017513-49e8c5b3-b468-4895-8f90-4f72a28e9ab4.JPG)
 
+Para ter acesso ao Airflow seguimos com comando basicos:![Pismo3](https://user-images.githubusercontent.com/62898524/219018811-fd237fbc-50e2-4ab4-8cb2-0f4b85cd8f20.JPG)
+
+
+C:\Users\Dioeliton> docker compose up
+
+e apos expor o Airflow localmente:
+
+http://localhost:8080
+
+
  
