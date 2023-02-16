@@ -6,3 +6,5 @@ volumes:
 http://localhost:8080/health
 
 3° Para Acesso local foi inserido a senha Padrão conforme documetação Oficial:(airflow,airflow)
+
+4° Foram Criadas  as Pastas LOGS e PLUGINS
